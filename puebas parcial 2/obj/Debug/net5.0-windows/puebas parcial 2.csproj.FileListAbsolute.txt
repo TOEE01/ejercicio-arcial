@@ -1,0 +1,18 @@
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\puebas parcial 2.exe
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\puebas parcial 2.deps.json
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\puebas parcial 2.runtimeconfig.json
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\puebas parcial 2.runtimeconfig.dev.json
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\puebas parcial 2.dll
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\ref\puebas parcial 2.dll
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\bin\Debug\net5.0-windows\puebas parcial 2.pdb
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.csprojAssemblyReference.cache
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas_parcial_2.Form1.resources
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.csproj.GenerateResource.cache
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.AssemblyInfoInputs.cache
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.AssemblyInfo.cs
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.dll
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\ref\puebas parcial 2.dll
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.pdb
+C:\Users\recin\Desktop\CICLO III 2\PROGRAMACION I\puebas parcial 2\obj\Debug\net5.0-windows\puebas parcial 2.genruntimeconfig.cache
